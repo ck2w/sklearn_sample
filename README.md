@@ -1,3 +1,3 @@
-# sklearn_examples
+# sklearn_sample
 
 usages samples of scikit learn algos
